@@ -1,9 +1,9 @@
 # Hi there, I'm Cristhian! 👋
 
 🔭 I’m currently working on JustRun, an app that provides to runners a full periodization program<br>
-👯 I’m looking to collaborate on good open source projects
-🌱 I’m currently learning NodeJS
-⚡ Fun fact: I like to running
+👯 I’m looking to collaborate on good open source projects<br>
+🌱 I’m currently learning NodeJS<br>
+⚡ Fun fact: I like to running<br>
 
 
 <a href="https://skillicons.dev">
