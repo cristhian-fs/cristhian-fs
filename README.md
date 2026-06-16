@@ -1,20 +1,22 @@
-# Hi there, I'm Cristhian! 👋
+<table>
+    <tr>
+        <td width="50%" valign="top">
+    <h2>Hi, I'm Cristhian</h2>
+    <p>
+        Fullstack developer with ~2 years of hands-on experience building modern, responsive web applications. I work across the stack — from polished React/Next.js frontends to Node.js/NestJS APIs and serverless solutions.</p>
+    <p>
+        My stack is mainly focused on Node.js/Typescript, I have experience with React, Next.js, Astro, NestJS, Hono, ORMs like Prisma and DrizzleORM.
+    </p>
+    <p>
+        I'm currently learning more about node.js and typescript applications and architectures. Besides work, I'm also learning bash scripting for recreational programming and searching for Open Source projects to colaborate.
+    </p>
+    <p>
+       Reach me on <a href="https://linkedin.com/in/cristhian-fs" target="_blank">LinkedIn</a>
+    </p>
+    </td>
+        <td width="50%" valign="top">
+            <img src="./assets/ivan-the-terrible-and-his-son.png" />
+        </td>
+    </tr>
 
-🔭 I’m currently working on JustRun, an app that provides to runners a full periodization program<br>
-👯 I’m looking to collaborate on good open source projects<br>
-🌱 I’m currently learning NodeJS<br>
-⚡ Fun fact: I like to running<br>
-
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,codepen,css,figma,firebase,github,html,js,netlify,nextjs,nodejs,prisma,react,styledcomponents,tailwind,vercel,vite,vscode&perline=9" />
-</a>
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cristhifernand11) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/367828784168042498) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristhian.ui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhian-fs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cristhianuix) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cristhian-fs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhian-fs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</table>
